@@ -13,9 +13,3 @@ define("DBHOST", "localhost");
 define("DBUSER", "wordpressportfolio");
 define("DBPASS", "password");
 define("DBDATABASE", "wordpressportfolio"); 
-
-/* Database settings (Miun server) 
-define("DBHOST", "studentmysql.miun.se");
-define("DBUSER", "maso1905");
-define("DBPASS", "pm5j5kbc");
-define("DBDATABASE", "maso1905"); */
